@@ -1,12 +1,9 @@
 {
-  "id": "obsidian-hydra-pressure-theme",
   "name": "Hydra Pressure",
-  "type": "theme",
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
   "author": "monoooki",
   "authorUrl": "https://monoooki.net",
-  "description": "A candy-neon Obsidian theme that mixes ember orange, chilled cyan, and playful industrial accents drawn from the Hydra Pressure Splatling palette.",
-  "isDesktopOnly": false
+  "fundingUrl": "https://ko-fi.com/monoooki"
 }
 
